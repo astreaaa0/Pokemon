@@ -83,121 +83,118 @@
                 <th>#-1</th>
                 <th>Generation 1</th>
                 <th>Jm</th>
-                <th></th>
-                <th>Normal</th>
-                <th>Normal</th>
+                <th><img src="me.jpg" alt="me"width="300" height="222"></th>
+                <th colspan="2" style="background-color:Gray;">Normal</style></th>
                 <th>n/a</th>
                 <th>n/a</th>
-                <th>copycat</th>
+                <th>Tulog</th>
                 <th>1-1-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0011</th>
+                <th>Generation 1</th>
+                <th>Metapod</th>
+                <th><img src="metapod.jpg" alt="metapod"width="300" height="222"></th>
+                <th colspan="2" style="background-color:yellowgreen;">Bug</style></th>
+                <th>Caterpie</th>
+                <th>Butterfree</th>
+                <th>Bato</th>
+                <th>1-2-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0012</th>
+                <th>Generation 1</th>
+                <th>Butterfree</th>
+                <th><img src="butterfree.jpg" alt="butterfree"width="300" height="222"></th>
+                <th style="background-color:yellowgreen;">Bug</style></th>
+                <th style="background-color:Gray;">Flying</style></th>
+                <th>Metapod</th>
+                <th>n/a</th>
+                <th>Paro-paro</th>
+                <th>1-3-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0014</th>
+                <th>Generation 1</th>
+                <th>Cocoon</th>
+                <th><img src="014.png" alt="Cocoon"width="300" height="222"></th>
+                <th style="background-color:yellowgreen;">Bug</style></th>
+                <th style="background-color:darkmagenta;">Poison</style></th>
+                <th>Weedle</th>
+                <th>Beedrill</th>
+                <th>Mani</th>
+                <th>1-4-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0015</th>
+                <th>Generation 1</th>
+                <th>Beedrill</th>
+                <th><img src="beedrill.jpg" alt="Beedrill"width="300" height="222"></th>
+                <th style="background-color:yellowgreen;">Bug</style></th>
+                <th style="background-color:darkmagenta;">Poison</style></th>
+                <th>Cocoon</th>
+                <th>Mega Beedrill</th>
+                <th>Bubuyog</th>
+                <th>1-5-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0778</th>
+                <th>Generation 7</th>
+                <th>Mimikyu</th>
+                <th><img src="778.png" alt="Mimikyu"width="300" height="222"></th>
+                <th style="background-color:darkorchid;">Ghost</style></th>
+                <th style="background-color:lightpink;">Fairy</style></th>
+                <th>Unknown</th>
+                <th>Unknown</th>
+                <th>Pikachu creepy ver.</th>
+                <th>Unknown</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0491</th>
+                <th>Generation 4</th>
+                <th>Darkrai</th>
+                <th><img src="darkrai.jpg" alt="Darkrai"width="300" height="222"></th>
+                <th colspan="2" style="background-color:dimgray;">Dark</style></th>
+                <th>Egg</th>
+                <th>n/a</th>
+                <th>Favorite</th>
+                <th>1-6-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0472</th>
+                <th>Generation 4</th>
+                <th>Gliscor</th>
+                <th><img src="gliscor.jpg" alt="Gliscor"width="300" height="222"></th>
+                <th style="background-color:rgb(69, 45, 45);">Ground</style></th>
+                <th style="background-color:rgb(103, 184, 234);">Flying</style></th>
+                <th>Unknown</th>
+                <th>Unknown</th>
+                <th>Favorite no.2</th>
+                <th>1-7-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0715</th>
+                <th>Generation 6</th>
+                <th>Noivern</th>
+                <th><img src="noivern.jpg" alt="Noivern"width="300" height="222"></th>
+                <th style="background-color:rgb(103, 184, 234);">Flying</style></th>
+                <th style="background-color:rgb(81, 21, 21);">Dragon</style></th>
+                <th>Noibat</th>
+                <th>n/a</th>
+                <th>Favorite no.3</th>
+                <th>1-8-2024</th>
             </tr>
             <tr>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
-                <th></th>
+                <th>#0890</th>
+                <th>Generation 8</th>
+                <th>Eternatus</th>
+                <th><img src="890.png" alt="Eternatus"width="300" height="222"></th>
+                <th style="background-color:darkmagenta;">Poison</style></th>
+                <th style="background-color:rgb(81, 21, 21);">Dragon</style></th>
+                <th>Unknown</th>
+                <th>Unknown</th>
+                <th>Favorite legendary</th>
+                <th>1-9-2024</th><br><br>
             </tr>  
          </table>
         </form>
