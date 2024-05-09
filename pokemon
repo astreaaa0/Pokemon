@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Pokemon</title>
+    </head>
+    <body>
+        <center>
+        <form>
+         <label for="fname">National Dex:</label>
+         <input type="text" id="fname" name="fname" value=""><br><br>
+         <input type="radio" id="Gen.1" name="Generation" value="Generation">
+         <label for="Generation ">Generation 1</label>
+         <input type="radio" id="Gen.2" name="Generation" value="Generation">
+         <label for="Generation">Generation 2</label>
+         <input type="radio" id="Gen.3" name="Generation" value="Generation">
+         <label for="Generation">Generation 3</label>
+         <input type="radio" id="Gen.4" name="Generation" value="Generation">
+         <label for="Generation ">Generation 4</label>
+         <input type="radio" id="Gen.5" name="Generation" value="Generation">
+         <label for="Generation">Generation 5</label>
+         <input type="radio" id="Gen.6" name="Generation" value="Generation">
+         <label for="Generation">Generation 6</label>
+         <input type="radio" id="Gen.7" name="Generation" value="Generation">
+         <label for="Generation ">Generation 7</label>
+         <input type="radio" id="Gen.8" name="Generation" value="Generation">
+         <label for="Generation">Generation 8</label>
+         <input type="radio" id="Gen.9" name="Generation" value="Generation">
+         <label for="Generation">Generation 9</label><br><br>
+         <label for="Pname">Pokemon name:</label>
+         <input type="text" id="Pname" name="Pname" value=""><br><br>
+         <label for="Pic">Image:</label>
+         <input type="file" id="pic" name="Pic" value=""><br><br>
+
+         <label for="elem">Type 1:</label>
+         <input list="type" id="element1" name="element" value="">
+         <label for="elem">Type 2:</label>
+         <input list="type" id="element2" name="element" value=""><br><br>
+         <datalist id="type">
+            <option value="Normal">
+            <option value="Fighting">
+            <option value="Fire">
+            <option value="Water">
+            <option value="Grass">
+            <option value="Electric">
+            <option value="Ground">
+            <option value="Ice">
+            <option value="Poison">
+            <option value="Rock">
+            <option value="Psychic">
+            <option value="Bug">
+            <option value="Flying">
+            <option value="Ghost">
+            <option value="Dragon">
+            <option value="Dark">
+            <option value="Steel">
+            <option value="Fairy">
+            </datalist>
+
+         <label for="elem">Evolution from:</label>
+         <input type="text" id="evo from" name="evo" value="">
+         <label for="elem">Evoles to:</label>
+         <input type="text" id="evo to" name="evo" value=""><br><br>
+         <label for="elem">Nickname:</label>
+         <input type="text" id="nname" name="nname" value=""><br><br>
+         <label for="elem">Birthdate:</label>
+         <input type="date" id="birth" name="birthdate" value=""><br><br>
+         <input type="submit" id="sub" name="submit" value="Submit"><br><br>
+         
+         <table border="3px">
+            <tr>
+                <th>National Dex</th>
+                <th>Generation</th>
+                <th>Pokemon name</th>
+                <th>Image</th>
+                <th>Type 1</th>
+                <th>Type 2</th>
+                <th>Evolves from</th>
+                <th>Evolves to</th>
+                <th>Nickname</th>
+                <th>Birthdate</th>
+            </tr>
+            <tr>
+                <th>#-1</th>
+                <th>Generation 1</th>
+                <th>Jm</th>
+                <th></th>
+                <th>Normal</th>
+                <th>Normal</th>
+                <th>n/a</th>
+                <th>n/a</th>
+                <th>copycat</th>
+                <th>1-1-2024</th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+            <tr>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>  
+         </table>
+        </form>
+        </center>
+    </body>
+</html>
